@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* Regra @charset caso esteja com problemas de acentuação */
+
+body{
+    background-color: darkslategray;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+h1{
+    background-color: silver;
+    color: black;
+    font-size: 2em
+}
+h2{
+    font-size: 1.5em;
+    color: black;
+    padding: 5px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+p.link{
+    text-align: center;
+    padding: 2em;
+}
